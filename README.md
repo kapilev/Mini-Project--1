@@ -1,2 +1,2 @@
-# Mini-Project--1
+# Mini-Project-2
 Game Application: Rock, Paper, and Scissor
